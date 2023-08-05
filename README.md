@@ -14,9 +14,6 @@ Où se trouve l'adresse IP de ce site web : https://www.example.com ?
 Sortie :
 L'IP du site www.example.com est : 93.184.216.34
 
-vbnet
-Copy code
-
 Assurez-vous que la demande contient des mots clés tels que "IP", "adresse", "site" ou "web" pour que le programme puisse identifier la demande appropriée.
 
 **Note :** Si le programme ne parvient pas à trouver une adresse IP pour le site web spécifié, il affichera un message d'erreur approprié.
